@@ -1,4 +1,4 @@
-module github.com/cyberDevv/rssagg
+module github.com/CyberDevv/rssAggregator
 
 go 1.21.6
 
